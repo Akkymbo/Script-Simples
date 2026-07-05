@@ -111,10 +111,10 @@ local function createESP(p)
 	local bb = Instance.new("BillboardGui")
 	bb.Size = UDim2.new(0, 120, 0, 25)
 	bb.AlwaysOnTop = true
-	bb.Enabled = false
+	bb.Enabled = true
 
 	local txt = Instance.new("TextLabel")
-	txt.Size = UDim2.new(1,0,1,0)
+	txt.Size = UDim2.new(1,0,5,0)
 	txt.BackgroundTransparency = 1
 	txt.TextColor3 = Color3.fromRGB(255,255,255)
 	txt.TextScaled = true
