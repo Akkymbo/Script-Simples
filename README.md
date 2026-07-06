@@ -8,3 +8,5 @@ Binds:
 Obs:
 Este script ainda está em fase de testes.
 Pode sofrer mudanças e melhorias futuras.
+
+Aguardem.
