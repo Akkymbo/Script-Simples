@@ -19,7 +19,7 @@
 Um script universal para o roblox.
 
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Akkymbo/Script-Simples/refs/heads/main/Universal-exploit.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Akkymbo/Script-Simples/main/Universal-exploit.lua"))()
 ```
 
 ---
